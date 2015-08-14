@@ -1,10 +1,10 @@
-=== Ninja Forms Woo Order Field ===
+=== Woo Order Field for Ninja Forms ===
 Contributors: manchumahara, codeboxr, wpboxr
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NWVPKSXP6TCDS
 Tags: ninja forms, woocommerce
 Requires at least: 3.8
-Tested up to: 4.2.2
-Stable tag: 1.0.0
+Tested up to: 4.2.4
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,8 @@ Woocommerce Orders Dropdown field for Ninja form.
 
 == Description ==
 
-This plugins adds Woocommerce Orders dropdown selection for logged in users, useful for support form.
+
+This plugins adds Woocommerce Orders dropdown selection field for Ninja forms for logged in users, useful for support form.
 
 
 == Installation ==
@@ -28,6 +29,8 @@ FTP:
 == Screenshots ==
 
 1. Form Edit Extra Field "My Order"
-2. Email Template tags available
+2. Send field value to email or message template
 3. My Order Field in frontend
+4. Woocommerce order id field value in submission listing
+
 

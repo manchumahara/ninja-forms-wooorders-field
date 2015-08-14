@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Ninja Forms WooCommerce Order
+ * Plugin Name: Woo Order Field for Ninja Forms
  * Plugin URI: http://wordpress.org/plugins/ninja-forms-wooorders-field/
  * Description: This plugin add woocommerce orders of loggedin users in dropdown
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: wpboxr
  * Author URI: http://www.wpboxr.com
  * License:  GPLv2 or later
